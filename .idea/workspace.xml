@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e555720a-99f8-4951-934c-3e65dc60b359" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/learn_dlfs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learn_dlfs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_01/introducing_python.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/introducing_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_02/perceptron.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/perceptron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_03/mnist_show.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/mnist_show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_03/neural_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/neural_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_03/neuralnet_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/neuralnet_mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_03/neuralnet_mnist_batch.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/neuralnet_mnist_batch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_03/sample_weight.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/sample_weight.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_04/gradient_1d.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch04/gradient_1d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_04/gradient_2d.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch04/gradient_2d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_04/gradient_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch04/gradient_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_04/gradient_simplenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch04/gradient_simplenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_04/train_neuralnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch04/train_neuralnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_04/two_layer_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch04/two_layer_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_05/buy_apple.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch05/buy_apple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_05/buy_apple_orange.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch05/buy_apple_orange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_05/gradient_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch05/gradient_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_05/layer_naive.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch05/layer_naive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_05/train_neuralnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch05/train_neuralnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_05/two_layer_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch05/two_layer_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_06/batch_norm_gradient_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/batch_norm_gradient_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_06/batch_norm_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/batch_norm_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_06/hyperparameter_optimization.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/hyperparameter_optimization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_06/optimizer_compare_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/optimizer_compare_mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_06/optimizer_compare_naive.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/optimizer_compare_naive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_06/overfit_dropout.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/overfit_dropout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_06/overfit_weight_decay.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/overfit_weight_decay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_06/weight_init_activation_histogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/weight_init_activation_histogram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_06/weight_init_compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/weight_init_compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_07/apply_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/apply_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_07/gradient_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/gradient_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_07/params.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/params.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_07/simple_convnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/simple_convnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_07/train_convnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/train_convnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_07/visualize_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/visualize_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_08/awesome_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/awesome_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_08/deep_convnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/deep_convnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_08/deep_convnet_params.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/deep_convnet_params.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_08/half_float_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/half_float_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_08/misclassified_mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/misclassified_mnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_08/train_deepnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/train_deepnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/functions.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2Wh3VnMqri1scwQDSlcbAOVE5bc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Desktop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.mnist">
+    <configuration name="introducing_python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_dlfs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch01/introducing_python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mnist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_dlfs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataset" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataset/mnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="neural_network" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_dlfs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch03/neural_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="overfit_weight_decay" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_dlfs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_06/overfit_weight_decay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_neuralnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn_dlfs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch04/train_neuralnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mnist" />
+        <item itemvalue="Python.neural_network" />
+        <item itemvalue="Python.introducing_python" />
+        <item itemvalue="Python.train_neuralnet" />
+        <item itemvalue="Python.overfit_weight_decay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e555720a-99f8-4951-934c-3e65dc60b359" name="Changes" comment="" />
+      <created>1697171011377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697171011377</updated>
+      <workItem from="1697171013025" duration="5840000" />
+      <workItem from="1697285465315" duration="524000" />
+      <workItem from="1697550966077" duration="9936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dataset/mnist.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learn_dlfs$weight_init_activation_histogram.coverage" NAME="weight_init_activation_histogram Coverage Results" MODIFIED="1697180428924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_06" />
+    <SUITE FILE_PATH="coverage/learn_dlfs$optimizer_compare_naive.coverage" NAME="optimizer_compare_naive Coverage Results" MODIFIED="1697179934145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_06" />
+    <SUITE FILE_PATH="coverage/learn_dlfs$weight_init_compare.coverage" NAME="weight_init_compare Coverage Results" MODIFIED="1697180490105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_06" />
+    <SUITE FILE_PATH="coverage/learn_dlfs$overfit_weight_decay.coverage" NAME="overfit_weight_decay Coverage Results" MODIFIED="1697180870750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_06" />
+    <SUITE FILE_PATH="coverage/learn_dlfs$train_neuralnet.coverage" NAME="train_neuralnet Coverage Results" MODIFIED="1697552055830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/learn_dlfs$introducing_python.coverage" NAME="introducing_python Coverage Results" MODIFIED="1697552590700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
+    <SUITE FILE_PATH="coverage/learn_dlfs$gradient_check.coverage" NAME="gradient_check Coverage Results" MODIFIED="1697179055959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_05" />
+    <SUITE FILE_PATH="coverage/learn_dlfs$batch_norm_test.coverage" NAME="batch_norm_test Coverage Results" MODIFIED="1697180667445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_06" />
+    <SUITE FILE_PATH="coverage/learn_dlfs$neural_network.coverage" NAME="neural_network Coverage Results" MODIFIED="1697557048014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/learn_dlfs$optimizer_compare_mnist.coverage" NAME="optimizer_compare_mnist Coverage Results" MODIFIED="1697180194229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch_06" />
+    <SUITE FILE_PATH="coverage/learn_dlfs$mnist.coverage" NAME="mnist Coverage Results" MODIFIED="1697603022561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+  </component>
+</project>
